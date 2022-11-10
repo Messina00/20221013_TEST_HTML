@@ -24,5 +24,8 @@ Let myStringOrigSliced = "my first string".slice(3, 6)
 
 Let myStringOrig -- myStringOrigSliced ->
 
-
+//Una funzione per calcolare il prodotto di p1 e p2
+function myFunction(p1, p2) {
+  return p1 * p2;
+}
 
